@@ -24,3 +24,10 @@
 
 **Link(s) to work**: 
 
+### Day 4: November 7, 2019 
+
+**Today's Progress**: Completed these sections: Applied Visual Design, Applied Accessibility, and Responsive Web Design Principles. Starting on CSS Flexbox.   
+
+**Thoughts**: The game's afoot!
+
+**Link(s) to work**: 
