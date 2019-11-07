@@ -16,3 +16,11 @@
 
 **Link(s) to work**: 
 
+### Day 3: November 6, 2019 
+
+**Today's Progress**: Working my way through the Applied Visual Design section. 
+
+**Thoughts**: Learning some new stuff, way kewl!
+
+**Link(s) to work**: 
+
