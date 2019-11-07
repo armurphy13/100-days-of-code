@@ -4,7 +4,7 @@
 
 **Today's Progress**: Started the Responsive Web Design Certification excersices at www.freecodecamp.org/learn. Completed Basic HTML and HTML5 and started Basic CSS. 
 
-**Thoughts:** I have experience with HTML5 and CSS so the exercises far are quit managable.
+**Thoughts:** I have experience with HTML5 and CSS so the exercises are quit managable.
 
 **Link to work:**
 
