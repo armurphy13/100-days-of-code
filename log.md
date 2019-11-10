@@ -32,10 +32,18 @@
 
 **Link(s) to work**:
 
-### Day 4: November 8, 2019 
+### Day 5: November 8, 2019 
 
 **Today's Progress**: Completed CSS Flexbox, CSS Grid, and the 1st project: A tribute page.   
 
 **Thoughts**: Onward and forward!
 
 **Link(s) to work**:https://codepen.io/armurphy13/pen/yLLEyOd
+
+### Day 6: November 9, 2019 
+
+**Today's Progress**: Working on the 2nd project: build a survey form.   
+
+**Thoughts**: Getting farmiliar with forms again has been a bit challanging but also fun stuff. :)
+
+**Link(s) to work**:https://codepen.io/freeCodeCamp/pen/VPaoNP?editors=1100
