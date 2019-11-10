@@ -30,4 +30,12 @@
 
 **Thoughts**: The game's afoot!
 
-**Link(s) to work**: 
+**Link(s) to work**:
+
+### Day 4: November 8, 2019 
+
+**Today's Progress**: Completed CSS Flexbox, CSS Grid, and the 1st project: A tribute page.   
+
+**Thoughts**: Onward and forward!
+
+**Link(s) to work**:https://codepen.io/armurphy13/pen/yLLEyOd
