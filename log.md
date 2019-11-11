@@ -46,7 +46,7 @@
 
 **Thoughts**: Getting farmiliar with forms again has been a bit challanging but also fun stuff. :)
 
-**Link(s) to work**:https://codepen.io/freeCodeCamp/pen/VPaoNP?editors=1100
+**Link(s) to work**:
 
 ### Day 7: November 10, 2019 
 
@@ -54,7 +54,7 @@
 
 **Thoughts**: Grinding it out.
 
-**Link(s) to work**:https://codepen.io/freeCodeCamp/pen/VPaoNP?editors=1100
+**Link(s) to work**:
 
 ### Day 8: November 11, 2019 
 
