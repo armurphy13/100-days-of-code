@@ -42,7 +42,7 @@
 
 ### Day 6: November 9, 2019 
 
-**Today's Progress**: Working on the 2nd project: build a survey form.   
+**Today's Progress**: Started working on the 2nd project: Build a Survey Form.   
 
 **Thoughts**: Getting farmiliar with forms again has been a bit challanging but also fun stuff. :)
 
@@ -50,7 +50,7 @@
 
 ### Day 7: November 10, 2019 
 
-**Today's Progress**: Still working on the 2nd project: build a survey form.   
+**Today's Progress**: Still working on the 2nd project: Build a Survey Form.   
 
 **Thoughts**: Grinding it out.
 
