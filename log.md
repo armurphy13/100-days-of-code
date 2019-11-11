@@ -47,3 +47,19 @@
 **Thoughts**: Getting farmiliar with forms again has been a bit challanging but also fun stuff. :)
 
 **Link(s) to work**:https://codepen.io/freeCodeCamp/pen/VPaoNP?editors=1100
+
+### Day 7: November 10, 2019 
+
+**Today's Progress**: Still working on the 2nd project: build a survey form.   
+
+**Thoughts**: Grinding it out.
+
+**Link(s) to work**:https://codepen.io/freeCodeCamp/pen/VPaoNP?editors=1100
+
+### Day 8: November 11, 2019 
+
+**Today's Progress**: Finished the 2nd project: Build a Survey Form. Starting the 3rd project: Build a Product Landing Page.   
+
+**Thoughts**: Whew. Need more experience building forms! Still fun, though!
+
+**Link(s) to work**:https://codepen.io/armurphy13/pen/WNNyJeK?editors=1100
