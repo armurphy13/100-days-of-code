@@ -63,3 +63,11 @@
 **Thoughts**: Whew. Need more experience building forms! Still fun, though!
 
 **Link(s) to work**:https://codepen.io/armurphy13/pen/WNNyJeK?editors=1100
+
+### Day 9: November 12, 2019 
+
+**Today's Progress**: Still working on the 3rd project: Build a Product Landing Page.   
+
+**Thoughts**:Working out well, but practice, practice, practice!
+
+**Link(s) to work**:https://codepen.io/armurphy13/pen/WNNKabB?editors=1100
