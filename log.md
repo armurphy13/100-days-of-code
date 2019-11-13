@@ -2,7 +2,7 @@
 
 ### Day 1: November 04, 2019
 
-**Today's Progress**: Started the Responsive Web Design Certification excersices at www.freecodecamp.org/learn. Completed Basic HTML and HTML5 and starting Basic CSS. 
+**Today's Progress**: Started the Responsive Web Design Certification excersices at www.freecodecamp.org/learn. Completed Basic HTML and HTML5 and starting Basic CSS.
 
 **Thoughts:** I have experience with HTML5 and CSS so the exercises are quit managable.
 
