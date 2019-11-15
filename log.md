@@ -71,3 +71,19 @@
 **Thoughts**:Working out well, but practice, practice, practice!
 
 **Link(s) to work**:https://codepen.io/armurphy13/pen/WNNKabB?editors=1100
+
+### Day 10: November 13, 2019 
+
+**Today's Progress**: Worked on the 3rd project: Build a Product Landing Page.   
+
+**Thoughts**: Had to play around a bit to get things to work the way I wanted. Onward, forward!
+
+**Link(s) to work**:
+
+### Day 11: November 14, 2019 
+
+**Today's Progress**: Worked on the 3rd project: Build a Product Landing Page and passed all the tests required for the project. However, I still need to make it more aestheticly pleasing.  
+
+**Thoughts**: Bah, sometimes I get too caught up in the visual design process! 
+
+**Link(s) to work**: https://codepen.io/armurphy13/pen/WNNKabB?editors=1100
